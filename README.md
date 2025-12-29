@@ -10,18 +10,16 @@
 <br>
 
 <a href="#Fundamentals+of+Computer+Network!"><kbd> <br> Fundamentals of Computer Network <br> </kbd></a>&ensp;&ensp;
-<a href="#NetworkModels!"><kbd> <br> Network Models <br> </kbd></a>&ensp;&ensp;
+<a href="#Network+Models!"><kbd> <br> Network Models <br> </kbd></a>&ensp;&ensp;
 <a href="#Physical+Layer!"><kbd> <br> Physical Layer <br> </kbd></a>&ensp;&ensp;
 <a href="#Data+Link+Layer!"><kbd> <br> Data Link Layer <br> </kbd></a>&ensp;&ensp;
 <a href="#Network+Layer!"><kbd> <br> Network Layer <br> </kbd></a>&ensp;&ensp;
 <a href="#Subnetting!"><kbd> <br> Subnetting <br> </kbd></a>&ensp;&ensp;
-<a href="#TEST!"><kbd> <br> TEST <br> </kbd></a>&ensp;&ensp;
+
 </div><br><br>
 
-<br>
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5BDD25E6&width=435&lines=Fundamentals+of+Computer+Network!)
-
+<a id="Subnetting!"></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=25&pause=1000&color=CCA9DD&vCenter=true&width=435&height=25&lines=undamentals+of+Computer+Network!" width="450"/>
 ---
 
 This Section Covers the Basics of Computer Networks
@@ -30,20 +28,16 @@ This Section Covers the Basics of Computer Networks
 - Network Devices [Network_Devices.md]
 - Types of Networks [Types_of_Networks.md]
 
-<br>
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=57D223E6&width=435&lines=Network+Models!)
-
+<a id="Network+Models!"></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=25&pause=1000&color=CCA9DD&vCenter=true&width=435&height=25&lines=Network+Models!" width="450"/>
 ---
 
 - OSI Model
 - TCP/IP Model 
 
 
-<br>
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=57D223E6&width=435&lines=Physical+Layer!)
-
+<a id="Physical+Layer!"></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=25&pause=1000&color=CCA9DD&vCenter=true&width=435&height=25&lines=Physical+Layer!" width="450"/>
 ---
 
 - Physical Layer
@@ -52,10 +46,8 @@ This Section Covers the Basics of Computer Networks
 - Transmission Media
 
 
-<br>
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=57D223E6&width=435&lines=Data+Link+Layer!)
-
+<a id="Data+Link+Layer!"></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=25&pause=1000&color=CCA9DD&vCenter=true&width=435&height=25&lines=Data+Link+Layer!" width="450"/>
 ---
 
 - Data Link Layer
@@ -74,10 +66,10 @@ This Section Covers the Basics of Computer Networks
 
 
 
-<br>
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=57D223E6&width=435&lines=Network+Layer!)
+<a id="Network Layer!"></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=25&pause=1000&color=CCA9DD&vCenter=true&width=435&height=25&lines=Network+Layer!" width="450"/>
 ---
+
 
 - Network Layer
 - Classful Network Addressing
@@ -87,11 +79,8 @@ This Section Covers the Basics of Computer Networks
 - Private vs Public IP addresses
 
 
-<br>
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=57D223&width=435&lines=Subnetting!)
-
-
+<a id="Subnetting!"></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=25&pause=1000&color=CCA9DD&vCenter=true&width=435&height=25&lines=Subnetting!" width="450"/>
 ---
 
 - Subnetting basics
@@ -102,9 +91,3 @@ This Section Covers the Basics of Computer Networks
 - Supernetting
 
 
-<br>
-
-<a id="TEST!"></a>
-<img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=25&pause=1000&color=CCA9DD&vCenter=true&width=435&height=25&lines=TEST!" width="450"/>
-
----
