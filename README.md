@@ -1,8 +1,8 @@
 <br>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2BDDC6E6&width=435&lines=COMPUTER+NETWORKING!)
-
 ---
+
 
 
 <div align="center">
@@ -19,9 +19,8 @@
 </div><br><br>
 
 <br>
-<a id="Subnetting!"></a>
-<img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=25&pause=1000&color=CCA9DD&vCenter=true&width=435&height=25&lines=undamentals+of+Computer+Network!" width="450"/>
----
+<a id="Fundamentals+of+Computer+Network!"></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=25&pause=1000&color=CCA9DD&vCenter=true&width=435&height=25&lines=Fundamentals+of+Computer+Network!" width="450"/>
 
 
 This Section Covers the Basics of Computer Networks
@@ -33,7 +32,7 @@ This Section Covers the Basics of Computer Networks
 <br>
 <a id="Network+Models!"></a>
 <img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=25&pause=1000&color=CCA9DD&vCenter=true&width=435&height=25&lines=Network+Models!" width="450"/>
----
+
 
 - OSI Model
 - TCP/IP Model 
@@ -41,7 +40,7 @@ This Section Covers the Basics of Computer Networks
 <br>
 <a id="Physical+Layer!"></a>
 <img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=25&pause=1000&color=CCA9DD&vCenter=true&width=435&height=25&lines=Physical+Layer!" width="450"/>
----
+
 
 - Physical Layer
 - Types of Network Topology
@@ -51,7 +50,7 @@ This Section Covers the Basics of Computer Networks
 <br>
 <a id="Data+Link+Layer!"></a>
 <img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=25&pause=1000&color=CCA9DD&vCenter=true&width=435&height=25&lines=Data+Link+Layer!" width="450"/>
----
+
 
 - Data Link Layer
 - Switching Techniques
@@ -69,9 +68,9 @@ This Section Covers the Basics of Computer Networks
 
 
 <br>
-<a id="Network Layer!"></a>
+<a id="Network+Layer!"></a>
 <img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=25&pause=1000&color=CCA9DD&vCenter=true&width=435&height=25&lines=Network+Layer!" width="450"/>
----
+
 
 
 - Network Layer
@@ -84,7 +83,7 @@ This Section Covers the Basics of Computer Networks
 <br>
 <a id="Subnetting!"></a>
 <img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=25&pause=1000&color=CCA9DD&vCenter=true&width=435&height=25&lines=Subnetting!" width="450"/>
----
+
 
 - Subnetting basics
 - Subnet masks
