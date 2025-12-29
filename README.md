@@ -4,6 +4,14 @@
 
 ---
 
+
+<div align="center">
+
+<br>
+
+<a href="#Fundamentals+of+Computer+Network!"><kbd> <br> Installation <br> </kbd></a>&ensp;&ensp;
+</div><br><br>
+
 <br>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5BDD25E6&width=435&lines=Fundamentals+of+Computer+Network!)
