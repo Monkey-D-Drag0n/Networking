@@ -1,24 +1,24 @@
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2BDDC6E6&width=435&lines=COMPUTER+NETWORKING!)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2BDDC6E6&width=435&lines=COMPUTER+NETWORKING!)
 
 ---
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5BDD25E6&width=435&lines=Fundamentals+of+Computer+Network!)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5BDD25E6&width=435&lines=Fundamentals+of+Computer+Network!)
 
 ---
 
 This Section Covers the Basics of Computer Networks
 
-- Basics of Computer Networks
+- Basics of Computer Networks [Networking.md](Networking.md)
 - Network Devices
 - Types of Networks
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=57D223E6&width=435&lines=Network+Models!)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=57D223E6&width=435&lines=Network+Models!)
 
 ---
 
@@ -28,7 +28,7 @@ This Section Covers the Basics of Computer Networks
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=57D223E6&width=435&lines=Physical+Layer!)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=57D223E6&width=435&lines=Physical+Layer!)
 
 ---
 
@@ -40,7 +40,7 @@ This Section Covers the Basics of Computer Networks
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=57D223E6&width=435&lines=Data+Link+Layer!)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=57D223E6&width=435&lines=Data+Link+Layer!)
 
 ---
 
@@ -62,8 +62,7 @@ This Section Covers the Basics of Computer Networks
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=57D223E6&width=435&lines=Network+Layer!)](https://git.io/typing-svg)
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=57D223E6&width=435&lines=Network+Layer!)
 ---
 
 - Network Layer
