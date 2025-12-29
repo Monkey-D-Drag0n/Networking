@@ -15,7 +15,7 @@
 <a href="#Data+Link+Layer!"><kbd> <br> Data Link Layer <br> </kbd></a>&ensp;&ensp;
 <a href="#Network+Layer!"><kbd> <br> Network Layer <br> </kbd></a>&ensp;&ensp;
 <a href="#Subnetting!"><kbd> <br> Subnetting <br> </kbd></a>&ensp;&ensp;
-
+<a href="#TEST!"><kbd> <br> TEST <br> </kbd></a>&ensp;&ensp;
 </div><br><br>
 
 <br>
@@ -102,3 +102,9 @@ This Section Covers the Basics of Computer Networks
 - Supernetting
 
 
+<br>
+
+<a id="TEST!"></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=25&pause=1000&color=CCA9DD&vCenter=true&width=435&height=25&lines=TEST!" width="450"/>
+
+---
