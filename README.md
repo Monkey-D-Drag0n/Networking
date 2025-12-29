@@ -9,7 +9,13 @@
 
 <br>
 
-<a href="#Fundamentals+of+Computer+Network!"><kbd> <br> Installation <br> </kbd></a>&ensp;&ensp;
+<a href="#Fundamentals+of+Computer+Network!"><kbd> <br> Fundamentals of Computer Network <br> </kbd></a>&ensp;&ensp;
+<a href="#NetworkModels!"><kbd> <br> Network Models <br> </kbd></a>&ensp;&ensp;
+<a href="#Physical+Layer!"><kbd> <br> Physical Layer <br> </kbd></a>&ensp;&ensp;
+<a href="#Data+Link+Layer!"><kbd> <br> Data Link Layer <br> </kbd></a>&ensp;&ensp;
+<a href="#Network+Layer!"><kbd> <br> Network Layer <br> </kbd></a>&ensp;&ensp;
+<a href="#Subnetting!"><kbd> <br> Subnetting <br> </kbd></a>&ensp;&ensp;
+
 </div><br><br>
 
 <br>
@@ -20,9 +26,9 @@
 
 This Section Covers the Basics of Computer Networks
 
-- Basics of Computer Networks [Networking.md](Networking.md)
-- Network Devices
-- Types of Networks
+- Basics of Computer Networks [Networking.md]
+- Network Devices [Network_Devices.md]
+- Types of Networks [Types_of_Networks.md]
 
 <br>
 
