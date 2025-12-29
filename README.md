@@ -76,7 +76,8 @@ This Section Covers the Basics of Computer Networks
 
 <br>
 <a id="Subnetting!"></a>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=57D223E6&width=435&lines=Subnetting!)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=57D223&width=435&lines=Subnetting!)
+
 
 ---
 
